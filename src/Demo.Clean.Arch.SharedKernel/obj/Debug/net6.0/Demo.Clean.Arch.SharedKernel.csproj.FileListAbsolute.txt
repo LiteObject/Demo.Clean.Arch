@@ -1,0 +1,12 @@
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\bin\Debug\net6.0\Demo.Clean.Arch.SharedKernel.deps.json
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\bin\Debug\net6.0\Demo.Clean.Arch.SharedKernel.dll
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\bin\Debug\net6.0\Demo.Clean.Arch.SharedKernel.pdb
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\obj\Debug\net6.0\Demo.Clean.Arch.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\obj\Debug\net6.0\Demo.Clean.Arch.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\obj\Debug\net6.0\Demo.Clean.Arch.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\obj\Debug\net6.0\Demo.Clean.Arch.SharedKernel.AssemblyInfo.cs
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\obj\Debug\net6.0\Demo.Clean.Arch.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\obj\Debug\net6.0\Demo.Clean.Arch.SharedKernel.dll
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\obj\Debug\net6.0\refint\Demo.Clean.Arch.SharedKernel.dll
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\obj\Debug\net6.0\Demo.Clean.Arch.SharedKernel.pdb
+C:\Users\tunii\source\repos\LiteObject\Demo.Clean.Arch\src\Demo.Clean.Arch.SharedKernel\obj\Debug\net6.0\ref\Demo.Clean.Arch.SharedKernel.dll

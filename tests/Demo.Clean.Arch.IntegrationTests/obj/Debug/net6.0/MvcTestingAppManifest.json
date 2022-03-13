@@ -1,0 +1,7 @@
+{
+  "Demo.Clean.Arch.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\tunii\\source\\repos\\LiteObject\\Demo.Clean.Arch\\src\\Demo.Clean.Arch.Core",
+  "Demo.Clean.Arch.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\tunii\\source\\repos\\LiteObject\\Demo.Clean.Arch\\src\\Demo.Clean.Arch.Infrastructure",
+  "Demo.Clean.Arch.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\tunii\\source\\repos\\LiteObject\\Demo.Clean.Arch\\src\\Demo.Clean.Arch.SharedKernel",
+  "Demo.Clean.Arch.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\tunii\\source\\repos\\LiteObject\\Demo.Clean.Arch\\tests\\Demo.Clean.Arch.UnitTests",
+  "Demo.Clean.Arch.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\tunii\\source\\repos\\LiteObject\\Demo.Clean.Arch\\src\\Demo.Clean.Arch.Web"
+}
